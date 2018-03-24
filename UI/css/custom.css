@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.master{
+	margin:30px 0;
+}
+.master a {
+    display: inline-block;
+    cursor: pointer;
+}
